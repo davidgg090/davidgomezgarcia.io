@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://github.com/davidgg090/davidgomezgarcia.io
 
 languageCode: en-us
 title: "David"
@@ -36,7 +36,7 @@ params:
   background: "images/background.jpeg"
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/davidgg090/davidgomezgarcia.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
