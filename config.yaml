@@ -41,7 +41,10 @@ disqusShortname: does-not-exist
 # Site parameters
 params:
   background: "images/background.jpeg"
-
+  logo:
+    main: /images/site/main-logo.png
+    inverted: /images/site/inverted-logo.png
+    favicon: /images/site/favicon.png
   # GitHub repo URL of your site
   gitRepo: https://github.com/davidgg090/davidgomezgarcia.io
 
