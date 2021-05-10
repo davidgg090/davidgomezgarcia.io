@@ -1,0 +1,17 @@
+# some information about you
+name: "David Gómez García"
+nickname: "David"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hello, I am"
+image: "images/author/avatar.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "davidga.garcia@hotmail.com"
+  phone: "+56964854591"
+
+# some summary about what you do
+summary:
+  - I am a Software Engineer
+  - I like the devops culture
+  - I like challenges
+  - I like to practice swimming

@@ -1,0 +1,67 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: TeamCore Solutions
+    url: "https://www.teamcore.net/"
+    location: Santiago de Chile, Chile
+    # company overview
+    overview: Teamcore Solutions, uncovering Potential Sales on the Retail Channel. Teamcore captures the value from sales, inventory and instore data and generates Potential Sales opportunities through an AI-based algorithms and platform. These opportunities are quickly converted into prioritized tasks and insights to field, supply chain and commercial execution for increasing sales and shopper satisfaction. Potential Sales can generate a 16% increase on existing revenue levels.
+  positions:
+  - designation: Software Engineer
+    start: Feb 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    # responsibilities:
+    # - Design and develop XYZ tool for ABC task
+    # - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    # - Lead backend team.
+- company:
+    name: Cencosud S.A
+    url: "https://www.cencosud.com/"
+    location: Santiago de Chile, Chile
+    overview: Cencosud S.A is one of the largest and most prestigious retail conglomerates in Latin America. We have active operations in Argentina, Brazil, Chile, Peru and Colombia, as well as commercial offices in China.
+  positions:
+  - designation: Software Engineer
+    start: Oct 2019
+    end: Feb 2021
+    responsibilities:
+    - Creation of web systems based on data processed using Big Data techniques, developed with technologies such as Node JS, Angular, Python and SQL. Deployment and maintenance of services on cloud platforms such as Amazon Web Services and Microsoft Azure applying good DevOps practices with technologies such as Docker and Kubernetes.
+- company:
+    name: Analyze.
+    url: "https://www.analyze.cl/"
+    location: Santiago de Chile, Chile
+    overview: It is a company that offers IT solutions for the public and private sectors, transmitting and implementing good practices between both worlds.
+  positions:
+  - designation: Software Engineer
+    start: Ago 2017
+    end: Oct 2019
+    responsibilities:
+    - Development and maintenance of business management web platforms using mainly Python, Django and Angular JS as development technologies, deployed in the Amazon cloud service. Creation of scripts in Python to collect information using scrappy web techniques.
+
+- company:
+    name: Informatic Science University
+    url: "https://www.uci.cu/"
+    location: La Habana, Cuba
+    overview: The University of Computer Science was founded in 2002. Its mission is to produce computer applications and services, based on the study-work link as a training model. Serve as support to the Cuban computer science industry. At the UCI, it is developed in most of the most popular programming languages and technologies, mainly oriented to the development of free software
+  positions:
+      - designation: Member and Programmer of the Ethical Hacking Group
+        start: Nov 2014
+        end: Dic 2016
+        responsibilities:
+          - Administration of servers, interconnection equipment and network infrastructure; penetration tests; development of pentesting tools and vulnerability correction.
+      - designation: Software developer
+        start: Sep 2013
+        end: Dic 2016
+        responsibilities:
+          - C ++ / Python developer in the Applications-Task Executor and Human-Machine Interface modules of the SCADA project
