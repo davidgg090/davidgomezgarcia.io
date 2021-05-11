@@ -29,7 +29,7 @@ outputs:
   - JSON
   
 # Enable Google Analytics
-googleAnalytics: G-RKBRSE611C
+googleAnalytics: UA-93704249-1
 
 # Enable global emoji support
 enableEmoji: true
